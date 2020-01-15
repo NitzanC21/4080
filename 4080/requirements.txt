@@ -1,0 +1,6 @@
+Flask
+Pandas
+NumPlotLib
+flask_bootsrap
+flask_amount
+flask_wtf
